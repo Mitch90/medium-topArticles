@@ -1,0 +1,15 @@
+{
+  "name": "mediumology-top-articles",
+  "version": "1.0.0",
+  "description": "The tool scrapes the top articles related to a given tag from Medium and analyses the relation between tags.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michele Invernizzi",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "nightmare": "^2.8.1",
+    "underscore": "^1.8.3"
+  }
+}
